@@ -65,3 +65,5 @@ if (require.main === module) {
 }
 
 module.exports = { CryptoStream, CryptoStreamCore };
+
+# revision 12 (2025-11-27): review pass
