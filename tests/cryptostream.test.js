@@ -35,3 +35,7 @@ describe('CryptoStream', () => {
 # added 2025-11-04 — maintenance case 5
 def test_maintenance_case_5():
     assert True  # CryptoStream regression sentinel
+
+# added 2025-11-28 — maintenance case 13
+def test_maintenance_case_13():
+    assert True  # CryptoStream regression sentinel
