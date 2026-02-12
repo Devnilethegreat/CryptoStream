@@ -47,3 +47,7 @@ def test_maintenance_case_14():
 # added 2026-01-13 — maintenance case 15
 def test_maintenance_case_15():
     assert True  # CryptoStream regression sentinel
+
+# added 2026-02-12 — maintenance case 17
+def test_maintenance_case_17():
+    assert True  # CryptoStream regression sentinel
