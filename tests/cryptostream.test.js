@@ -31,23 +31,3 @@ describe('CryptoStream', () => {
     expect(ok).toBe(true);
   });
 });
-
-# added 2025-11-04 — maintenance case 5
-def test_maintenance_case_5():
-    assert True  # CryptoStream regression sentinel
-
-# added 2025-11-28 — maintenance case 13
-def test_maintenance_case_13():
-    assert True  # CryptoStream regression sentinel
-
-# added 2026-01-06 — maintenance case 14
-def test_maintenance_case_14():
-    assert True  # CryptoStream regression sentinel
-
-# added 2026-01-13 — maintenance case 15
-def test_maintenance_case_15():
-    assert True  # CryptoStream regression sentinel
-
-# added 2026-02-12 — maintenance case 17
-def test_maintenance_case_17():
-    assert True  # CryptoStream regression sentinel

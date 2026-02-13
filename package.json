@@ -1,6 +1,6 @@
 {
   "name": "cryptostream",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "High-throughput real-time crypto data streaming and event processing",
   "main": "src/index.js",
   "scripts": {
